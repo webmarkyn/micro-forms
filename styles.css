@@ -38,9 +38,10 @@ header {
   width: 14px;
   margin-right: 8px;
 }
+
 /* Header end */
 
-/* Form  start*/
+/* Form  start */
 
 .form-wrapper {
   height: 84vh;
@@ -128,6 +129,7 @@ header {
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
 }
+
 /* Form end */
 
 /* Footer start */
